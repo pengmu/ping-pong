@@ -2,8 +2,8 @@ import pygame
 import random
 import sys
 
-x = 600
-y = 600
+x = 500
+y = 500
 
 sbreite = 100
 shoehe = 15
